@@ -6,7 +6,7 @@ Copy The URL & Paste it in your web browser
 
 The Walkthrough is available on Youtube:
 
-https://www.youtube.com/watch?v=GG21jGdU0wo
+https://www.youtube.com/watch?v=ENZbwxv2o4s
 
 Support My Work With A Cup Of Coffee
 
