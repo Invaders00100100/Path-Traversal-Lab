@@ -1,4 +1,4 @@
-
+Cd into the directory containing the scripts
 
 Run The Script python3 app.py
 
